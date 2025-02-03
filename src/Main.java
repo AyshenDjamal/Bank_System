@@ -17,7 +17,7 @@ public class Main {
         CreditAccount.creditLimit();
         num1.creditBalance();
         num1.loyaltyPoints();// default method
-        .-
+        .-jjjj
 
 
     }
