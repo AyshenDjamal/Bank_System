@@ -16,7 +16,8 @@ public class Main {
         System.out.println("\n----Her Credit Account----");
         CreditAccount.creditLimit();
         num1.creditBalance();
-        num1.loyaltyPoints();  // default method
+        num1.loyaltyPoints();// default method
+        .-
 
 
     }
